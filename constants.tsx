@@ -16,7 +16,7 @@ export const PROJECTS: Project[] = [
     description: 'Architected the core tokenomics and 3D interface for the DREW token. Built a high-performance indexer in Golang to track real-time holder metrics and liquidity distributions.',
     role: 'Infrastructure Architect',
     tags: ['3D Web', 'Golang', 'Solidity', 'PostgreSQL'],
-    image: 'https://imgur.com/aw9OZyc' // Using thematic placeholder for 3D token
+    image: 'https://images.unsplash.com/photo-1621504450181-5d356f63d3ee?auto=format&fit=crop&q=80&w=800' // Using thematic placeholder for 3D token
   },
   {
     id: 'drew-airdrop',
@@ -24,7 +24,7 @@ export const PROJECTS: Project[] = [
     description: 'Developed a scalable distribution engine capable of handling 100k+ simultaneous claims. Implemented custom Merkle tree verification and an interactive, high-engagement frontend.',
     role: 'Lead Full-Stack Dev',
     tags: ['React', 'Merkle Proofs', 'AWS', 'Web3.js'],
-    image: 'https://imgur.com/N6thGFD' // Using thematic placeholder for airdrop/network
+    image: 'https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?auto=format&fit=crop&q=80&w=800' // Using thematic placeholder for airdrop/network
   },
   {
     id: 'centraland',
