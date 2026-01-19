@@ -96,7 +96,7 @@ const Hero: React.FC = () => {
           
           {/* Floaters */}
           <div className="absolute -bottom-6 -left-6 w-32 h-32 glass border border-cyan-500/30 rounded-full flex flex-col items-center justify-center animate-bounce shadow-xl">
-             <div className="text-2xl font-black text-cyan-400">8+</div>
+             <div className="text-2xl font-black text-cyan-400">6+</div>
              <div className="text-[8px] font-bold text-slate-500 uppercase tracking-widest">Years</div>
           </div>
         </div>
