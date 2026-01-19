@@ -1,0 +1,8 @@
+
+{
+  "name": "Chicano Cryptophile - Web3 Portfolio",
+  "description": "A futuristic, cyberpunk-inspired portfolio for a senior Web3 developer, featuring interactive carousels and an AI-enhanced contact verification system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
